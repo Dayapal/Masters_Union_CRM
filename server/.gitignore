@@ -4,3 +4,4 @@ dist
 logs
 *.log
 package-lock.json
+/src/generated/prisma
